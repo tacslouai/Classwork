@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\lhammad\Desktop\2019-10-02-Classwork\2019-10-02-Classwork\Main.cpp(13,24): warning C4305:  'initializing': truncation from 'int' to 'char'
+C:\Users\lhammad\Desktop\2019-10-02-Classwork\2019-10-02-Classwork\Main.cpp(13,19): warning C4309:  'initializing': truncation of constant value
+C:\Users\lhammad\Desktop\2019-10-02-Classwork\2019-10-02-Classwork\Main.cpp(14,22): warning C4305:  'initializing': truncation from 'int' to 'char'
+C:\Users\lhammad\Desktop\2019-10-02-Classwork\2019-10-02-Classwork\Main.cpp(14,17): warning C4309:  'initializing': truncation of constant value
+  2019-10-02-Classwork.vcxproj -> C:\Users\lhammad\Desktop\2019-10-02-Classwork\Debug\2019-10-02-Classwork.exe
